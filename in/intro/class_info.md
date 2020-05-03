@@ -20,13 +20,3 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 14  | June 25th | Project Presentations |
 
 <br/><br/>
-
-#### Practice Problem Access
-
-A folder containing blank copies of all practice problem sets is **[in Google Drive](https://drive.google.com/drive/folders/1AD8J-4xlvTjYfHpgUCoA3uKBi_7x5fQt?usp=sharing)**. 
-
-**Please make a copy of the whole folder and save it to your Drive**. 
-
-Please append your name to the name of the folder (e.g. "PYTH225_JohnSmith"). Please share your copy of the folder (with edit access) with your Instructor and your IA. 
-
-**This is where you will keep your answers to all the practice problems**
