@@ -7,7 +7,7 @@
 Welcome to the first unit lab!
 
 Throughout the course, there is a lab at the end of each unit. Each lab builds upon the prior.
-**At the end of Unit 5’s lab, you’re going to have an app that asks the user to search for a twitter user. Your app will then search for that user on Twitter and print the search results. **
+At the end of Unit 3’s lab, you’re going to have an app that asks the user to search for a twitter user. Your app will then search for that user on Twitter and print the search results.
 
 **This app will be able to:**
 
