@@ -5,10 +5,10 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | Lecture # | Date | Links |
 | --------- | ---- | ------------- |
 | 1  | May 5th  | 🎉Intro Deck, Tools, Pre-work review, [Essential Terminology & Pseudo-Code](#out/topics/essential_terminology) |
-| 2  | May 7th  | [Basic Data Types](#out/topics/basic_data_types), [String Formatting](#out/topics/string_formatting), [Conditionals](#out/topics/conditionals) (except the bonus topic), [Lists](#out/topics/lists), Unit 1 Lab - Basic Data Types|
-| 3  | May 12th  | [Loops](#out/topics/loops) |
+| 2  | May 7th  | [Basic Data Types](#out/topics/basic_data_types), [String Formatting](#out/topics/string_formatting), [Conditionals](#out/topics/conditionals) (except the bonus topic), [Unit 1 Lab - Variables](#in/labs/unit1_vars)|
+| 3  | May 12th  | [Lists](#out/topics/lists), [Loops](#out/topics/loops) |
 | 4  | May 14th  | [Functions](#out/topics/functions), Decorators, [Classes](#out/topics/classes) |
-| 5  | May 19th  | Unit 2 Lab - Advanced Control Flow |
+| 5  | May 19th  | [Unit 2 Lab - Control Flow](#in/labs/unit2_control_flow) |
 | 6  | May 21st  | [Dicts](#out/topics/dicts), [Tuples & Sets](#out/topics/tuples_sets) |
 | 7  | May 26th  | Scripting |
 | 8  | May 28th  | [Modules](#out/topics/modules) |
