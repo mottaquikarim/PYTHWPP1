@@ -16,6 +16,8 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 10  | June 4th | APIs |
 | 11  | June 9th | Unit 3 Lab - Flask API |
 | 12  | June 11th | Course Review, Project Intro |
+|     | June 16th | **NO CLASS** |
+|     | June 18th | **NO CLASS** |
 | 13  | June 23rd | Project Work |
 | 14  | June 25th | Project Presentations |
 
