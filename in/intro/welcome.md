@@ -74,6 +74,14 @@ Homework is linked on the class **homepage**, below the letures. You will submit
 
 More on this later! But, we are lucky in that we have a week break before final projects.
 
+### Zoom
+
+Please edit your zoom name to inclue your first name and if possible, profile picture.
+
+You are encouraged to ask questions on Zoom chat or on Teams, your IA wil pick up the question and optionally ask me so that I can cover with the entire class or, if specific enough, just reply back to you with an answer.
+
+Also, when we do in-class exercises, we will split into "breakout rooms" where you will be paired with folks 1-2 of your class mates. The instructional team will pop in and out of these rooms in order to ensure you are staying on track and any specific questions that you may have are answered. If you would like to flag our attention, please @-msg us on Teams!
+
 ## Tools
 
 Primarily, we will be using **[REPL.it](https://repl.it/languages/python3)** and the **command line** to write and operate our code. For the first week, we will be working primarily in REPL.it to ensure folks who were not able to get python installed have a chance to do so before we dive in in earnest.
