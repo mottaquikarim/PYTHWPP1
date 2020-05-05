@@ -22,4 +22,10 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 14  | June 25th | Project Presentations |
 
 <br/><br/>
+
+## Squad Roster
+
+Each of your will be assigned to a "squad", lead by an IA who is your "team lead". This allows us to more effetively manage your questions and needs in a timely manner. Your squad lead will report to me and help me better understand higher level trends of the class. Please find your squad lead (and teammates) below!
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrX4qrqTERyfcgla?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
  
