@@ -21,6 +21,12 @@ We will align ourselves into 4 **squads**. Each IA will be the **squad lead**. I
 
 In this base, I remove PII (emails) but still give you the ability to filter and group. However, you also have full readonly access to all the views (and emails) materialized here: [**Squad Base**](https://airtable.com/tblXKK1OayuV4KlqE/viwaZbR8uIukninHI?blocks=hide). (You can navigate the views with the dropdown on the top left).
 
+### Managing Squad Members
+
+IMO the best approach here is to create a DM space on Teams that includes you, your squad members, and me. This space can be used to manage and handle specific questions your squad members might have and to reach out to folks in a more intimate environment. Ideally, we want to encourage our friends to speak up in these DMs and to feel _comfortable_ to speak up.
+
+Additionally, general homework feedback can be passed along here. 
+
 ## Attendance
 
 Attendance is super important! Here is how attendance works:
