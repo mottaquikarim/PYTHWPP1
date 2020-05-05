@@ -1,27 +1,27 @@
 {
 	"links": [{
-		"name": "Slack",
-		"url": "http://pyth225.slack.com/",
-        "desc": "Slack is our online classroom - we will share class notes, videos, lectures, etc here. ➡️"
+		"name": "Teams",
+		"url": "https://teams.microsoft.com/_?tenantId=150b5e66-3d88-4dee-83f6-ed149b727a00#/conversations/NYC%20Python%20-%20May%202020?threadId=19:2f8bd7083f7d445fb04a2faa7cd3e744@thread.tacv2&ctx=channel",
+        "desc": "Teams is our online classroom - we will share class notes, videos, lectures, etc here. ➡️"
 	}, {
-		"name": "Office Hours",
-		"url": "https://calendly.com/afriedman412",
-        "desc": "Office Hours w/Andy"
+		"name": "Check In",
+		"url": "https://airtable.com/shroqAUHnqBINgrtm",
+        "desc": "Please click the link above to check in to lecture!"
 	}, {
+        "name": "HW",
+        "url": "https://airtable.com/shrLwGLoUzUOkPYEk",
+        "desc": "Please submit your homework assignments via this form"
+    }, {
         "name": "PSETs",
-        "url": "https://drive.google.com/drive/folders/1u2J8MY-UznscVwXQtBwFcP32PMyLFf3n?usp=sharing",
-        "desc": "A folder containing blank copies of all practice problem sets"
+        "url": "https://github.com/mottaquikarim/wpp_psets",
+        "desc": "Please access practice sets for in class assignments and homework here."
     }, {
-        "name": "Class Notes",
-        "url": "https://drive.google.com/drive/folders/1H4M2HBy_LEFcS0xdLibxoBshUpaXV86Y?usp=sharing",
-        "desc": "Class notes from Taq's machine"
-    }, {
-        "name": "PSET Answers",
-        "url": "https://drive.google.com/drive/folders/1mIyLJU3rC0PAR17ytWFrlDe1dBxztPCL?usp=sharing",
-        "desc": "Completed in-class pset problems"
+        "name": "REPL.it",
+        "url": "https://repl.it/languages/python3",
+        "desc": "Online python runtime environment"
     }, {
 	"name": "Videos",
-	"url": "https://airtable.com/shrqs3uQjp5tOXUDe/tblN6QM8SVCJcaGtX?blocks=hide",
+	"url": "https://airtable.com/shriIcUjkHb9iElg8",
 	"desc": "Screen recordings from lecture"
     }]
 }
