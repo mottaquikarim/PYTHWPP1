@@ -76,11 +76,23 @@ More on this later! But, we are lucky in that we have a week break before final 
 
 ## Tools
 
-Primarily, we will be using **[REPL.it](https://repl.it/languages/python3) and the **command line** to write and operate our code. For the first week, we will be working primarily in REPL.it to ensure folks who were not able to get python installed have a chance to do so before we dive in in earnest.
+Primarily, we will be using **[REPL.it](https://repl.it/languages/python3)** and the **command line** to write and operate our code. For the first week, we will be working primarily in REPL.it to ensure folks who were not able to get python installed have a chance to do so before we dive in in earnest.
 
 **Please look at and ensure you are able to complete the command line lesson in pre-work** by end of week!
 
 We will not learn command line functionality all at once but instead pepper it in based on need throughout the course. For those interested, here are my [lecture slides](https://show.zohopublic.com/publish/ivvjw880a8176a10d44ecbc4638c07bc180db) for the command line lesson I deliver to my graduate class at Baruch.
+
+### Github
+
+Please make a (free) account on [github](https://github.com)
+
+### Code Editor
+
+You are welcome to use any code editor you like, I will be teaching from [Sublime Text](https://www.sublimetext.com/3)
+
+### Browser
+
+It is strongly recommended that you use [Google Chrome](https://www.google.com/chrome/) for this class.
 
 ## Pre-work
 
