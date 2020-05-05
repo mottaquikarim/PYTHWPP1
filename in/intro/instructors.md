@@ -47,7 +47,6 @@ This is the Airtable base necessary for you to manage homework submissions. If y
 
 This is the Airtable base necessary for you to manage final project submissions. Note there are two tabs here - first tab manages proposals and the second tab links to proposals and manages submissions.
 
-
-
+## [Course Tracker](https://docs.google.com/spreadsheets/d/1uIR8ewJ6ZOzAxZVojIIjJsE9y4nh07OnJ1xbmiwamsw/edit?ts=5eaab30b#gid=2079771115)
 
 
