@@ -4,9 +4,9 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 
 | Lecture # | Date | Links |
 | --------- | ---- | ------------- |
-| 1  | May 5th  | [🎉Intro](#in/intro/welcome),[Essential Terminology & Pseudo-Code](#out/topics/essential_terminology), [Basic Data Types](#out/topics/basic_data_types) |
+| 1  | May 5th  | [🎉Intro](#in/intro/welcome), [Essential Terminology & Pseudo-Code](#out/topics/essential_terminology), [Basic Data Types](#out/topics/basic_data_types) |
 | 2  | May 7th  | [String Formatting](#out/topics/string_formatting), [Conditionals](#out/topics/conditionals)|
-| 3  | May 12th  | [Unit 1 Lab - Variables](#in/labs/unit1_vars), [Debugging](#out/topics/debugging), [Lists](#out/topics/lists), [Tuples & Sets](#out/topics/tuples_sets) |
+| 3  | May 12th  | [Command Line Review](https://show.zohopublic.com/publish/ivvjw880a8176a10d44ecbc4638c07bc180db), [Unit 1 Lab - Variables](#in/labs/unit1_vars), [Debugging](#out/topics/debugging), [Lists](#out/topics/lists), [Tuples & Sets](#out/topics/tuples_sets) |
 | 4  | May 14th  | [Loops](#out/topics/loops), [Dicts](#out/topics/dicts) |
 | 5  | May 19th  | [Functions](#out/topics/functions) |
 | 6  | May 21st  | [Unit 2 Lab - Control Flow](#in/labs/unit2_control_flow), [Classes](#out/topics/classes), Decorators |
