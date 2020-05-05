@@ -4,10 +4,6 @@
 		"url": "https://teams.microsoft.com/_?tenantId=150b5e66-3d88-4dee-83f6-ed149b727a00#/conversations/NYC%20Python%20-%20May%202020?threadId=19:2f8bd7083f7d445fb04a2faa7cd3e744@thread.tacv2&ctx=channel",
         "desc": "Teams is our online classroom - we will share class notes, videos, lectures, etc here. ➡️"
 	}, {
-		"name": "Check In",
-		"url": "https://airtable.com/shroqAUHnqBINgrtm",
-        "desc": "Please click the link above to check in to lecture!"
-	}, {
 		"name": "Feedback",
 		"url": "https://www.surveymonkey.co.uk/r/FXGR8N3?Cohort_ID=[Cohort_ID_value]",
         "desc": "Have feedback? Please provide it here!"
