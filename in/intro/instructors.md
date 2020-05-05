@@ -10,10 +10,10 @@ This is the invitation to our WPP class base. This link is _only_ available to f
 
 We will align ourselves into 4 **squads**. Each IA will be the **squad lead**. I ran a simple `n mod 4` to determine who ends up in which squad. Squads are named after pokemon to discourage the notion that they are somehow ranked (ie: hence no squad 1,2,3,4 or squad a.b.c.d):
 
-* bulbasaur
-* charmander
-* squirtle
-* pikachu
+* A
+* B
+* C
+* D
 
 (After the class starter pokemon, ofc!).
 
