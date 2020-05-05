@@ -8,6 +8,10 @@
 		"url": "https://airtable.com/shroqAUHnqBINgrtm",
         "desc": "Please click the link above to check in to lecture!"
 	}, {
+		"name": "Feedback",
+		"url": "https://www.surveymonkey.co.uk/r/FXGR8N3?Cohort_ID=[Cohort_ID_value]",
+        "desc": "Have feedback? Please provide it here!"
+	}, {
         "name": "HW",
         "url": "https://airtable.com/shrLwGLoUzUOkPYEk",
         "desc": "Please submit your homework assignments via this form"
