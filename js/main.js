@@ -171,7 +171,7 @@ all_files
                 	isactive = ' active';
                 }
 		console.log(path, window.location.hash.slice(1))
-                if (window.location.hash.slice(1) == path) {
+                if (window.location.hash.slice(1) == path || window.location.hash.slice(1) == 'in/intro/instructors') {
                     window.location.hash = "";
                     setTimeout(function() { window.location.hash = path ; }, 100)
                 }
