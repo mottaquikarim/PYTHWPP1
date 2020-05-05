@@ -171,10 +171,14 @@ all_files
                 	isactive = ' active';
                 }
 		console.log(path, window.location.hash.slice(1))
-                if (window.location.hash.slice(1) == path || window.location.hash.slice(1) == 'in/intro/instructors') {
+                if (window.location.hash.slice(1) == path) {
                     window.location.hash = "";
-                    setTimeout(function() { window.location.hash = path ; }, 100)
+                    window.location.hash = path ;
                 }
+		if (window.location.hash.slice(1) == 'in/intro/instructors') {
+                    window.location.hash = "";
+                    window.location.hash = 'in/intro/instructors' ;			
+		}
 				return `<li><time datetime="2019-03-11 00:00:00 UTC"></time><a class="link js-link ${isactive}" href="#${path}"">${val}</a></li>`
 			})
             links.innerHTML += `
