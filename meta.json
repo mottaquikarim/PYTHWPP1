@@ -27,5 +27,10 @@
 	"name": "Videos",
 	"url": "https://airtable.com/shriIcUjkHb9iElg8",
 	"desc": "Screen recordings from lecture"
+    }, {
+	"name": "Notes",
+	"url": "https://airtable.com/shrneytIH2H7j4UWt",
+	"desc": "Lecture notes from Taq"
     }]
 }
+
