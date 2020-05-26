@@ -8,10 +8,10 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 2  | May 7th  |  [Basic Data Types](#out/topics/basic_data_types), [String Formatting](#out/topics/string_formatting)|
 | 3  | May 12th  | [String Formatting](#out/topics/string_formatting), [Conditionals](#out/topics/conditionals)  |
 | 4  | May 14th  | [Lists](#out/topics/lists), [Tuples & Sets](#out/topics/tuples_sets), [Loops](#out/topics/loops), [Dicts](#out/topics/dicts) |
-| 5  | May 19th  | [Functions](#out/topics/functions), [Debugging](#out/topics/debugging), [Command Line Review](https://show.zohopublic.com/publish/ivvjw880a8176a10d44ecbc4638c07bc180db) |
-| 6  | May 21st  | [Unit 2 Lab - Control Flow](#in/labs/unit2_control_flow), [Classes](#out/topics/classes), Decorators |
-| 7  | May 26th  | Scripting |
-| 8  | May 28th  | [Modules](#out/topics/modules) |
+| 5  | May 19th  | [Loops](#out/topics/loops), [Dicts](#out/topics/dicts), [Functions](#out/topics/functions) |
+| 6  | May 21st  | [Dicts](#out/topics/dicts), [Functions](#out/topics/functions) |
+| 7  | May 26th  | [Command Line Review](https://show.zohopublic.com/publish/ivvjw880a8176a10d44ecbc4638c07bc180db), [Functions](#out/topics/functions), [Debugging](#out/topics/debugging) |
+| 8  | May 28th  | [Classes](#out/topics/classes) |
 | 9  | June 2nd  | Flask, HTML, & CSS |
 | 10  | June 4th | APIs |
 | 11  | June 9th | Unit 3 Lab - Flask API |
