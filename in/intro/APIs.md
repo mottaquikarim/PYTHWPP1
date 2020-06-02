@@ -47,3 +47,58 @@ Generally, speaking:
 ## HTML: Hyper Text Markup Language
 
 This is simply a language encoding that browsers understand. Based on the definition of these encodings, we can generate interactive web sites like the ones we have seen thus far.
+
+In keeping with our vocabulary thus far, we say that the HTML content is the **response body** that the server sends back.
+
+![5](http://fhoerni.free.fr/comp/web_server_html.png)
+
+### More dynamic content 🦖
+
+![6](http://fhoerni.free.fr/comp/web_server_php.png)
+
+As you can see here, the server **generates** HTML code that is populated with dynamic data before sending back to client.
+
+This was a popular approach to take in the _old_ days. 🦖🦖🦖
+
+### Modern implementations
+
+![7](http://fhoerni.free.fr/comp/web_server_javascript.png)
+
+What is missing here is the **substantially more frequent** interactions between the client and server, where the client - typically running javascript - will make multiple requests to the server for partial data that is **NOT** encoded in HTML, which is clunky.
+
+![8](https://makoserver.net/blogmedia/Windows-Live-Writer/0088fc15aa6a_11190/browser-server-com_thumb_2.png)
+
+This data is dynamically rendered on to the client screen and gives us experiences such as infinite scrolling, etc. The data is formatted in something called **JSON: Javascript Object Notation**.
+
+JSON looks like this:
+
+```json
+{
+  "docs": {
+    "user": {
+      "name": "taq",
+      "age": 58,
+      "id": 5832
+    }
+  }
+}
+```
+
+### Web APIS
+
+Typically a server will implement a multitude of endpoints called a **web API**, which are basically a bunch of URLs that the client can call directly and get back information that is not encoded in HTML (roughly speaking). 
+
+Web APIs work with the following blurbs: 
+
+* **POST**: **C**reate a new resoure
+* **GET**:  **R**ead a resource
+* **PUT**:  **U**pdate a resource
+* **DELETE**: **D**elete a resource
+
+Colloquially, this is called **CRUD** and we use this to perform common things like adding/removing/updating users or posts on instagram, etc.
+
+Today in class we will both consume and create CRUD APIs.
+
+
+
+
