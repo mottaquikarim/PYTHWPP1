@@ -12,7 +12,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 6  | May 21st  | [Dicts](#out/topics/dicts), [Functions](#out/topics/functions) |
 | 7  | May 26th  | [Command Line Review](https://show.zohopublic.com/publish/ivvjw880a8176a10d44ecbc4638c07bc180db), [Functions](#out/topics/functions), [Debugging](#out/topics/debugging) |
 | 8  | May 28th  | [Classes](#out/topics/classes) |
-| 9  | June 2nd  | Flask, HTML, & CSS |
+| 9  | June 2nd  | [Flask, HTML, & CSS](#in/intro/APIs.md) |
 | 10  | June 4th | APIs |
 | 11  | June 9th | Unit 3 Lab - Flask API |
 | 12  | June 11th | Course Review, Project Intro |
