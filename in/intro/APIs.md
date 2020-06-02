@@ -99,6 +99,17 @@ Colloquially, this is called **CRUD** and we use this to perform common things l
 
 Today in class we will both consume and create CRUD APIs.
 
+## Using `requests` library, interact with the Numbers API
+
+[**API endpoint**](http://numbersapi.com/42/math?json)
+
+**[API](http://numbersapi.com/#42)**
+
+## Using `https://crudcrud.com/`, let us interact with an API using `requests`
+
+**[API](https://crudcrud.com/)**
+
+## Using `flask`, let us build our own API!
 
 ```python
 
