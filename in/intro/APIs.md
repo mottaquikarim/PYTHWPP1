@@ -100,5 +100,13 @@ Colloquially, this is called **CRUD** and we use this to perform common things l
 Today in class we will both consume and create CRUD APIs.
 
 
+```python
 
+from flask import Flask
+app = Flask(__name__)
+
+@app.route('/')
+def hello_world():
+    return 'Hello, World!'
+```
 
