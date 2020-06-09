@@ -14,7 +14,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 | 8  | May 28th  | [Classes](#out/topics/classes) |
 | 9  | June 2nd  | [Flask, HTML, & CSS](#in/intro/APIs) |
 | 10  | June 4th | APIs |
-| 11  | June 9th | Unit 3 Lab - Flask API |
+| 11  | June 9th | [Unit 3 Lab - Flask API](#in/intro/financeservice) |
 | 12  | June 11th | Course Review, Project Intro |
 |     | June 16th | **NO CLASS** |
 |     | June 18th | **NO CLASS** |
