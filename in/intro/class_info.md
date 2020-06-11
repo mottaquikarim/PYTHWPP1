@@ -23,6 +23,8 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 
 <br/><br/>
 
+## [Final Project Info](#in/intro/finalproject)
+
 ## [Homework](#in/homework/all_hw)
 
 Please find homework assignments and due dates here.
