@@ -131,7 +131,7 @@ As you present, answer the following:
 
 Thank you!
 
-* Angelica
+* Angelica  [Linkedin](https://www.linkedin.com/in/angelica-maria-nanez/)
 * Fernando  [Linkedin](https://www.linkedin.com/in/fernando-hidalgo)
 * Juliann  [Linkedin](https://www.linkedin.com/in/juliann-mceachern/)
 * Kihoon  [Linkedin](https://www.linkedin.com/in/kihoonsohn/)
