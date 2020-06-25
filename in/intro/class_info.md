@@ -19,7 +19,7 @@ _Tentative_ schedule. Subject to change based on class pace and comfort level.
 |     | June 16th | **NO CLASS** |
 |     | June 18th | **NO CLASS** |
 | 13  | June 23rd | Project Work |
-| 14  | June 25th | Project Presentations |
+| 14  | June 25th | [Project Presentations](https://mottaquikarim.github.io/PYTHWPP1/stage/index.html?lecture=1#/) |
 
 <br/><br/>
 
